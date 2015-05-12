@@ -1,0 +1,6 @@
+James Ziemba jjz4
+Started and completed this APT on Jan. 30. It took about 30 min.
+I consulted StackOverflow for some unknown Java methods.
+I did not consult anyone.
+This was pretty tricky given that names could be in an array more than once. Once I realized that I should just convert each array into a HashSet,
+this APT was done easily.

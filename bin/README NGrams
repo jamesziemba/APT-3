@@ -1,0 +1,6 @@
+James Ziemba jjz4
+Started and finished this APT on Feb. 2. It took me about 2 hours.
+I consulted with fellow 201er Nick Pagliuca. We talked about different ways to record the indexes of the letters. Conversation only. NO CODE WAS SHARED
+I consulted StackOverflow.
+This was tough because the user had to figure out how to compare indexes of words with completely different letters. I was initially going to use a
+map, but figured out that doing so would cause too much complication. Converting the letters into indexes made comparison much easier.
